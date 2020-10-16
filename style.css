@@ -1,0 +1,4 @@
+.heading {font-size:25px; width:100%; margin:0px;box-shadow:15px 15px 20px rgb(238, 13, 88); font-family: 'Romanesco', cursive;}
+.note{font-size:40px; color:pink}
+canvas{border:5px solid cyan; border-radius:20px; box-shadow:15px 15px 20px lightcoral;}
+.copyright_footer{position:fixed; text-align:center; width:100%; bottom:0; color:deeppink;background-color:black;}
